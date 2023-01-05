@@ -4,4 +4,4 @@ Netflix is a streaming service that offers a wide variety of award-winning TV sh
 This was my final project for my module, ST101, Programming for Data Science.
 
 # Report
-The final report can be found here.
+The final report can be found here: https://pellucidpurples.github.io/Streaming-Service-and-Analysis/
